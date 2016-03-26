@@ -9,11 +9,11 @@
 #ifndef Defines_h
 #define Defines_h
 
-static NSString *const UsernameKey = @"Username";
-static NSString *const Passwordkey = @"Password";
+static NSString *const UsernameKey = @"UsernameKey";
+static NSString *const Passwordkey = @"PasswordKey";
 
-static NSString *const AutoUsernameKey = @"AutoUsername";
-static NSString *const AutoPasswordkey = @"AutoPassword";
+static NSString *const AutoUsernameKey = @"AutoUsernameKey";
+static NSString *const AutoPasswordkey = @"AutoPasswordKey";
 static NSString *const CheckedKey = @"isChekedKey";
 
 
